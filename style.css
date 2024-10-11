@@ -1,0 +1,19 @@
+body {
+background-color: #ffe8c6;
+}
+
+.container-navbar {
+
+}
+
+.ul-navbar {
+display: flex;
+justify-content: center;
+}
+
+.li-navbar{
+list-style-type: none;
+padding: 5px;
+margin: 50px;
+text-shadow: 2px 2px 4px #000000;
+}
